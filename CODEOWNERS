@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @money-seoh
+/src/backend/database.py      @money-seoh
+/src/backend/routers/auth.py  @money-seoh
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @money-seoh
